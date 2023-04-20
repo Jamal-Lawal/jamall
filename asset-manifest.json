@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jamall/static/css/main.a3f340cb.css",
+    "main.js": "/jamall/static/js/main.0df966d0.js",
+    "static/media/avatar04.jpeg": "/jamall/static/media/avatar04.6dfa876ab87d29801fae.jpeg",
+    "static/media/avatar03.jpeg": "/jamall/static/media/avatar03.bcb44a30b341d449f76f.jpeg",
+    "static/media/avatar02.jpeg": "/jamall/static/media/avatar02.682ed88e512aa2fa5d93.jpeg",
+    "static/media/avatar01.jpg": "/jamall/static/media/avatar01.7e325ac94880bbf5dbd6.jpg",
+    "static/media/Portfolio03.png": "/jamall/static/media/Portfolio03.bca8269291a08722918a.png",
+    "static/media/portfolio02.png": "/jamall/static/media/portfolio02.5749e8296be59fff1c96.png",
+    "static/media/me.png": "/jamall/static/media/me.821ecddcb9953b46bf75.png",
+    "static/media/me-about.jpg": "/jamall/static/media/me-about.fb4452e7f286d3636ef9.jpg",
+    "static/media/portfolio01.png": "/jamall/static/media/portfolio01.82c95c6ef1214aecafb8.png",
+    "static/media/cv.pdf": "/jamall/static/media/cv.08a283c47c7ec585812f.pdf",
+    "index.html": "/jamall/index.html",
+    "main.a3f340cb.css.map": "/jamall/static/css/main.a3f340cb.css.map",
+    "main.0df966d0.js.map": "/jamall/static/js/main.0df966d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3f340cb.css",
+    "static/js/main.0df966d0.js"
+  ]
+}
