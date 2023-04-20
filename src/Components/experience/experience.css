@@ -1,0 +1,65 @@
+.experience__frontend{
+    background: var(--color-bg-variant);
+    padding: 2.4rem 0rem;
+    margin: 0rem 10rem;
+    border-radius: 2rem;
+    border: 1px solid transparent;
+    transition: var(--transition);
+}
+.experience__frontend:hover{
+    background: transparent;
+    border-color: var(--color-primary-variant);
+    cursor: default;
+}
+.experience__frontend h3{
+    text-align: center;
+    margin-bottom: 2rem;
+    color: var(--color-primary);
+}
+.experience__content{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    row-gap: 2rem;
+    padding-left: 10rem; /* because I didn't use two cards so I tried to redesign */
+}
+.experience__details{
+    display: flex;
+    gap: 1rem;
+}
+.experience__details-icon{
+    margin-top: 6px;
+    color: var(--color-primary);
+}
+
+
+/* =============== MEDIA QUERIES (MEDIUM DEVICES) =============== */
+@media screen and (max-width: 1024px){
+    .experience__frontend{
+        margin: 0 5rem;
+    }
+    .experience__content{
+        padding-left: 5rem;
+    }
+}
+
+
+/* =============== MEDIA QUERIES (SMALL DEVICES) =============== */
+@media screen and (max-width: 600px){
+    .experience{
+        margin-top: 5rem;
+    }
+    .experience__frontend{
+        /* width: 90%; */
+        margin: 0rem;
+        padding: 2rem 2rem;
+    }
+    
+    .experience__frontend h3{
+        margin-bottom: 1rem;
+    }
+
+    .experience__content{
+        /* row-gap: 3rem; */
+        padding-left: 0;
+    }
+}
